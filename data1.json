@@ -1,0 +1,28 @@
+{
+    "data" :[
+  {
+    "name": "Item A",
+    "value": 50
+  }, 
+  {
+    "name": "Item B",
+    "value": 55
+  }, 
+  {
+    "name": "Item C",
+    "value": 90
+  }, 
+  {
+    "name": "Item D",
+    "value": 78
+  }, 
+  {
+    "name": "Item E",
+    "value": 25
+  }, 
+  {
+    "name": "Item F",
+    "value": 95
+  }
+  ]
+  }

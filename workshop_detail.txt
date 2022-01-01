@@ -1,0 +1,18 @@
+Total Familiarization Workshops:16;Participating Institutes:12,Participants:256
+Participating Institutes:563
+Participants:1920
+Total Handsontraining Workshops:51
+Participating Institutes:373
+Participants:928
+Total Outstation Workshops:7
+Participating Institutes:115
+Participants:958
+Completed Projects(Very Short):0=
+Participating Institutes:0
+Completed Projects(Short Term):0+0
+Participating Institutes:0
+Completed Projects(Medium Term):0
+Participating Institutes:0
+Conference:0
+Journal:0
+Patent:0

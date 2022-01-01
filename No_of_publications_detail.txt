@@ -1,0 +1,3 @@
+Conference:90
+Journal:55
+Patent:60
