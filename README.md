@@ -6,5 +6,5 @@ I created this at my time during Internship, to be added to the IITB INUP websit
 
 ## Here is a working sample of the above....
 
-![](pics/Screenshot from 2021-12-31 11-54-47.png)
-![](pics/Screenshot from 2021-12-31 11-54-47.png)
+![](pics/pic2.png)
+![](pics/pic1.png)
